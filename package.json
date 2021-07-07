@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "simply-webpack --config webpack.dev.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-console-omit": "^1.0.2",
+    "babel-plugin-lodash-import": "^1.0.3",
+    "babel-preset-env": "^1.7.0"
+  }
+}
