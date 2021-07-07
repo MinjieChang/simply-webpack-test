@@ -12,6 +12,7 @@
   "dependencies": {
     "babel-plugin-console-omit": "^1.0.2",
     "babel-plugin-lodash-import": "^1.0.3",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "simply-webpack": "^1.0.4"
   }
 }
